@@ -9,7 +9,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
 - Il programma deve stampare i numeri da 1 a 100
 - Condizioni
-    - SE i numeri multipli sia di 3 che di 5 saranno sostituiti con "FizzBuzz"
+    - SE ci sono numeri multipli sia di 3 che di 5 saranno sostituiti con "FizzBuzz"
     - ALTRIMENTI SE ci sono numeri multipli di 5 saranno sostituiti con "Buzz"
     - ALTRIMENTI SE ci sono numeri multipli di 3 saranno sostituiti con "Fizz"
     - ALTRIMENTI i numeri non multipli di 3 e di 5 saranno scritti in cifre
